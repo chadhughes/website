@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/chad_hughes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chadhughes.com
+  * I am chad_hughes (https://keybase.io/chad_hughes) on keybase.
+  * I have a public key ASCfmt4VqGcqi3hoSkzmhmNX5LLbMSkaAvTff7IWusCFggo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101106cdba28e9c347f34947d4700175c1936a0eb66bc12166e34c1d46e727633790a",
+      "host": "keybase.io",
+      "kid": "01209f9ade15a8672a8b78684a4ce6866357e4b2db31291a02f4df7fb216bac085820a",
+      "uid": "79853a5c0f364b1a72268bc10d2bfd19",
+      "username": "chad_hughes"
+    },
+    "merkle_root": {
+      "ctime": 1538039557,
+      "hash": "2f33d4fbd9536341b8aeba48eae741c2b66e1c2c2c113335547f76312b8edc6bb1d01804779d224f64d7bc677f4ea57fb974d9e5ac3c0887fa717e6b4b996ba1",
+      "hash_meta": "78937692b47cecd548cb3ea0c22aab6746a57a553d9c8ec4b56c2ebd145747b5",
+      "seqno": 3699420
+    },
+    "service": {
+      "entropy": "ZjbyjiEHG1av+3VfoSWObVAr",
+      "hostname": "chadhughes.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.2"
+  },
+  "ctime": 1538039571,
+  "expire_in": 504576000,
+  "prev": "87508a233e32cb0e88afeb21bf282cae9cc49cd8e78a004dcf86b320b0c05854",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgn5reFahnKot4aEpM5oZjV+Sy2zEpGgL033+yFrrAhYIKp3BheWxvYWTESpcCJ8Qgh1CKIz4yyw6Ir+shvygsrpzEnNjnigBNz4azILDAWFTEIHVxqNr96cfl4a73E+3EWRjB8PeDXIlmD2QoMV0cjTaXAgHCo3NpZ8RAZrHX8g4rgAKBHiCnDHez/mVbCEPbQXhi7eHJrQf7UHA98PXQHCspGWtCfavWt37jajkxuA/3PN0clrzp8nf/DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINMO44ix5YKM9jD+slsKuuWdokgqhbTQ+xPWqoqGd7TZo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chad_hughes
+
+==================================================================
