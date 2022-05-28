@@ -1,4 +1,3 @@
 # chadhughes.com
 
-
 ...*personal website.*
