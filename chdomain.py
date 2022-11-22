@@ -3,7 +3,6 @@ from flask import Flask, render_template, request, redirect, session, jsonify
 from flask_wtf import Form
 from wtforms import StringField
 from wtforms.validators import DataRequired
-#from flask_wtf.csrf import CsrfProtect
 from flask_wtf.csrf import CSRFProtect
 from flask_sslify import SSLify
 from faker import Faker
